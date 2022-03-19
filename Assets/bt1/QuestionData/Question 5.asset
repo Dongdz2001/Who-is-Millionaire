@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a33e57ea2938ecf4d97778350bf8d5fb, type: 3}
+  m_Name: Question 5
+  m_EditorClassIdentifier: 
+  Number_Question: 5
+  Question_content: "T\u1EEB 1/8/2011, m\u1ED7i h\u1ECDc sinh, sinh vi\xEAn s\u1EBD
+    \u0111\u01B0\u1EE3c vay t\u1ED1i \u0111a bao nhi\xEAu m\u1ED9t th\xE1ng v\u1EDBi
+    l\xE3i su\u1EA5t \u01B0u \u0111\xE3i 0,65%?"
+  A: "800.000VN\u0110"
+  B: "900.000VN\u0110"
+  C: "1.000.000VN\u0110"
+  D: "1.100.000VN\u0110"
+  Correct_Answer: c

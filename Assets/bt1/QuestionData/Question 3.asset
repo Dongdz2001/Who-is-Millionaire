@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a33e57ea2938ecf4d97778350bf8d5fb, type: 3}
+  m_Name: Question 3
+  m_EditorClassIdentifier: 
+  Number_Question: 3
+  Question_content: " C\xE2u l\u1EA1c b\u1ED9 b\xF3ng \u0111\xE1 n\xE0o c\u1EE7a
+    n\u01B0\u1EDBc Anh c\xF3 bi\u1EC3u t\u01B0\u1EE3ng l\xE0 ch\xFA g\xE0 ch\u1ECDi?\u201D."
+  A: Everton
+  B: Leicester City
+  C: Leeds United
+  D: Tottenham Hotspur
+  Correct_Answer: d
